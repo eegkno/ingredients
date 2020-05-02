@@ -7,3 +7,5 @@ def guacamole():
 def coriander():
     print("Add coriander")
 
+def chilli():
+    print("Add chilli)
