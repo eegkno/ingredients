@@ -6,7 +6,7 @@ import setuptools
 
 current_dir = pathlib.Path(__file__).parent
 
-readme = (current_dir / "README.md").read_text()
+readme = (current_dir / "README.rst").read_text()
 
 setuptools.setup(
     name="ingredients",
