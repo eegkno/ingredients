@@ -9,3 +9,6 @@ def coriander():
 
 def chilli():
     print("Add chilli")
+
+def sauce():
+    print("Add sauce")
